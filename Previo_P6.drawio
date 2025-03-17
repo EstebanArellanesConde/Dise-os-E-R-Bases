@@ -260,6 +260,51 @@
             <mxPoint x="730" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-83" value="&lt;li class=&quot;&quot; data-end=&quot;900&quot; data-start=&quot;848&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;900&quot; data-start=&quot;850&quot;&gt;&lt;strong data-end=&quot;862&quot; data-start=&quot;850&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Inmueble&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-84" value="&lt;li class=&quot;&quot; data-end=&quot;1033&quot; data-start=&quot;977&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1033&quot; data-start=&quot;979&quot;&gt;&lt;strong data-end=&quot;987&quot; data-start=&quot;979&quot;&gt;Casa&lt;/strong&gt; (Calle, Número de Sección, Fraccionamiento)&lt;/p&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-85" value="&lt;li class=&quot;&quot; data-end=&quot;1090&quot; data-start=&quot;1037&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1090&quot; data-start=&quot;1039&quot;&gt;&lt;strong data-end=&quot;1049&quot; data-start=&quot;1039&quot;&gt;Precio&lt;/strong&gt; (Monto, Fecha de Inicio, Fecha de Fin)&lt;/p&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-86" value="&lt;li class=&quot;&quot; data-end=&quot;1139&quot; data-start=&quot;1094&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1139&quot; data-start=&quot;1096&quot;&gt;&lt;strong data-end=&quot;1108&quot; data-start=&quot;1096&quot;&gt;Servicio&lt;/strong&gt; (Clave, Nombre, Descripción)&lt;/p&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="241.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-87" value="&lt;li class=&quot;&quot; data-end=&quot;973&quot; data-start=&quot;904&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;973&quot; data-start=&quot;906&quot;&gt;&lt;strong data-end=&quot;922&quot; data-start=&quot;906&quot;&gt;Departamento&lt;/strong&gt; (Número, Clave de Edificio, Unidad Habitacional)&lt;/p&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="197.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-88" value="&lt;li class=&quot;&quot; data-end=&quot;1183&quot; data-start=&quot;1143&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;1183&quot; data-start=&quot;1145&quot;&gt;&lt;strong data-end=&quot;1156&quot; data-start=&quot;1145&quot;&gt;Empresa&lt;/strong&gt; (Nombre, RFC, Dirección)&lt;/p&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-89" value="Clave" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="126.25" width="50" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-90" value="Ubicación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="95" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-91" value="RFC Propietario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="126.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-83" target="KrMvBfwTUlIPdrOFluQu-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="322.5" as="sourcePoint" />
+            <mxPoint x="1310" y="272.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-93" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-83" target="KrMvBfwTUlIPdrOFluQu-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="180.5" as="sourcePoint" />
+            <mxPoint x="1128" y="157.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-94" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.317;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-83" target="KrMvBfwTUlIPdrOFluQu-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="180.5" as="sourcePoint" />
+            <mxPoint x="1065" y="122.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
