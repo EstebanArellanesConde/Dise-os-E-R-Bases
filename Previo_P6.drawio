@@ -18,17 +18,8 @@
         <mxCell id="KrMvBfwTUlIPdrOFluQu-2" value="&lt;li class=&quot;&quot; data-end=&quot;275&quot; data-start=&quot;234&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;275&quot; data-start=&quot;236&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;strong data-end=&quot;244&quot; data-start=&quot;236&quot;&gt;Cita&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="127.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-3" value="&lt;li class=&quot;&quot; data-end=&quot;339&quot; data-start=&quot;279&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;339&quot; data-start=&quot;281&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;strong data-end=&quot;296&quot; data-start=&quot;281&quot;&gt;Laboratorio&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-4" value="&lt;li class=&quot;&quot; data-end=&quot;505&quot; data-start=&quot;440&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;505&quot; data-start=&quot;442&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;strong data-end=&quot;458&quot; data-start=&quot;442&quot;&gt;Estatus Cita&lt;/strong&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-5" value="&lt;li class=&quot;&quot; data-end=&quot;436&quot; data-start=&quot;388&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;436&quot; data-start=&quot;390&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;strong data-end=&quot;400&quot; data-start=&quot;390&quot;&gt;&lt;font&gt;Médico&lt;/font&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-6" value="&lt;li class=&quot;&quot; data-end=&quot;384&quot; data-start=&quot;343&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;384&quot; data-start=&quot;345&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;strong data-end=&quot;360&quot; data-start=&quot;345&quot;&gt;Consultorio&lt;/strong&gt; &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-7" value="&lt;div&gt;ID Paciente&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="55" width="80" height="30" as="geometry" />
@@ -44,15 +35,6 @@
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-13" value="Tipo de Cita" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="82.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-14" value="RFC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482.5" y="700" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-16" value="&amp;nbsp;CV en PDF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="690" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-17" value="Nombre Completo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="730" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-19" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-1" target="KrMvBfwTUlIPdrOFluQu-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,24 +66,6 @@
             <mxPoint x="640" y="102.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-5" target="KrMvBfwTUlIPdrOFluQu-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="607.5" y="735" as="sourcePoint" />
-            <mxPoint x="607.5" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-5" target="KrMvBfwTUlIPdrOFluQu-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637.5" y="855" as="sourcePoint" />
-            <mxPoint x="637.5" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-5" target="KrMvBfwTUlIPdrOFluQu-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="647.5" y="865" as="sourcePoint" />
-            <mxPoint x="647.5" y="830" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-28" value="Número" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="400" width="70" height="30" as="geometry" />
         </mxCell>
@@ -130,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-35" value="Nombre del estatus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="220" width="100" height="30" as="geometry" />
+          <mxGeometry x="80" y="217.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-4" target="KrMvBfwTUlIPdrOFluQu-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -154,7 +118,7 @@
           <mxGeometry x="680" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-40" value="Fecha de actualización" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="220" width="100" height="30" as="geometry" />
+          <mxGeometry x="190" y="217.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-41" value="Número, Diagnóstico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="270" width="100" height="30" as="geometry" />
@@ -221,8 +185,9 @@
         <mxCell id="KrMvBfwTUlIPdrOFluQu-61" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="262.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KrMvBfwTUlIPdrOFluQu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=1;startArrow=oval;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-62" target="KrMvBfwTUlIPdrOFluQu-66">
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=1;startArrow=oval;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-2" target="KrMvBfwTUlIPdrOFluQu-66">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="220" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="570" y="160" />
               <mxPoint x="550" y="160" />
@@ -257,6 +222,15 @@
         </mxCell>
         <mxCell id="KrMvBfwTUlIPdrOFluQu-70" value="(0, *)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-71" value="&lt;p class=&quot;&quot; data-end=&quot;384&quot; data-start=&quot;345&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span data-end=&quot;360&quot; data-start=&quot;345&quot;&gt;Consultorio&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMvBfwTUlIPdrOFluQu-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMvBfwTUlIPdrOFluQu-71" target="KrMvBfwTUlIPdrOFluQu-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="320" as="sourcePoint" />
+            <mxPoint x="740" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
